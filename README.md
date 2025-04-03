@@ -15,9 +15,9 @@ This repository contains my implementation of image processing and filtering met
 ## Requirements
 * Python 3.8+
 * Libraries:
-- NumPy for mathematical calculation
-- PIL for loading the image
-- Matplotlib for visualisation purposes
+-  NumPy for mathematical calculation
+-  PIL for loading the image
+-  Matplotlib for visualisation purposes
 * The jupyter notebook (AIML331_A1.ipynb)
 * The checkerboard image (checkerboard.png)
 
