@@ -4,13 +4,10 @@
 This repository contains my implementation of image processing and filtering methods for part 2 of the AIML331 assignment 1. 
 
 ## Problem Description
-* 2.1: Finding and converting a checkerboard image to grayscale
-* 2.2: Generating the histogram and cumulative probability function of the image
-* 2.3: Applying low-pass filter to the image within the spatial domain
-* 2.4: Explanation of filter separability
-* 2.5: Applying low-pass filter to the image within the frequency domain
-* 2.6: Computing the histogram of the filtered image
-* 2.7: Using cumulative distribution functions to achieve uniform intensity distribution
+* Part 1: Sparse Keypoint Detection and Tracking (part1.py)
+* Part 2: Dense Tracking Using Optical Flow (part2.py)
+* Part 3: Application on Object Tracking (part3_SIFT.py, part3_OpticalFlow.py)
+* Part 4: Advanced Challenge (part4.py)
 
 ## Requirements
 * Python 3.8+
@@ -27,4 +24,4 @@ This repository contains my implementation of image processing and filtering met
 * Run the jupyter notebook
 
 ## Development Notes
-* I used generative AI (ChatGPT and Copilot) to implement some code in this assignment such as mathematical calculations and functions
+* I used generative AI (ChatGPT and Copilot) to implement some code in this assignment such as functions and computer vision problems
